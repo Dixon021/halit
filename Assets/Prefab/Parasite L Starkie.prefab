@@ -14,19 +14,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.2446
+      value: 1.0289233
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -268.0748
+      value: 41.105
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.03
+      value: -9.904
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 523.61285
+      value: 33.9643
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -62,11 +62,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2190329752880227948, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.2638
+      value: 0.7674931
       objectReference: {fileID: 0}
     - target: {fileID: 2190329752880227948, guid: 6c16dccff78416d489ee57d269f389cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.2467
+      value: 0.21745
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -159,6 +159,6 @@ NavMeshAgent:
   m_AutoBraking: 1
   m_AutoRepath: 1
   m_Height: 2
-  m_BaseOffset: 0
+  m_BaseOffset: 0.1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
